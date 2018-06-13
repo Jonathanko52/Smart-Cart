@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+}
+#col {
+    width:200px;
+    background-color: blue;
+}
+#button {
+    float: top;
+    width: 48px;
+    height: 48px;
+}
